@@ -173,8 +173,5 @@ hs_err_pid*
 *.jpg
 *.ttf
 .DS_Store
-**/.idea/
-**/.idea/*
-*/.idea/*
-.idea/*
-.idea
+idea/
+idea/*
